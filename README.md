@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SwthSawTheme
 - 👀 I’m interested in C, C++, C# and Python 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C++
 - 😄 Pronouns: him/his
 
 <!---
